@@ -1,0 +1,22 @@
+{
+  "name": "jingleBellRockParody",
+  "version": "0.0.1",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js",
+    "demo": "npm run start"
+  },
+  "keywords": [
+    "Jingle bells rock",
+    "parody",
+    "karaok",
+    "singing",
+    "lyrics"
+  ],
+  "author": "T. Shiu",
+  "license": "ISC",
+  "dependencies": {
+    "say": "^0.11.0"
+  }
+}
